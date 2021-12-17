@@ -1,7 +1,7 @@
 /*
 Title: Number to Word Converter
 Date Started: 2/12/2020
-Description: Script to print 1 - 1 million as words and functions to convert positive integers > 1 billion to their respective word-form
+Description: Script to print 1 - 1 million as words and functions to convert positive integers < 1 billion to their respective word-form
 */
 
 fn convert_segment(num: u16) -> String {
