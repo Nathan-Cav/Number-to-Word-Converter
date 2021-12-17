@@ -1,7 +1,7 @@
 /*
 Title: Number to Word Converter
 Date Started: 2/12/2020
-Description: Program to convert any positive integer > 1 billion to its respective word-form
+Description: Code to convert any positive integer > 1 billion to its respective word-form
 */
 
 fn convert_segment(num: u16) -> String {
