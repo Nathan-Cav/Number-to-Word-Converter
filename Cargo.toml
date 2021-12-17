@@ -1,0 +1,9 @@
+[package]
+name = "number-to-word-converter"
+version = "0.1.1"
+authors = ["Nathan-Cav <69287108+Nathan-Cav@users.noreply.github.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

@@ -1,2 +1,5 @@
-# number-to-word-converter
-A script that prints positive integers from 1 to 1 million as words. Feel free to fork, optimise and refactor. 
+# Number to Word Converter
+
+A random project to create a rust script that prints 1 to 1 million as words. I'm wasn't sure if there was any sample code that implements this so I thought I would put this up here for people to use.
+
+This is probably not the fastest and most efficient way of implementing this but it would be interesting to see how much the logic can be optimised and improved.
